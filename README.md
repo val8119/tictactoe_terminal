@@ -3,4 +3,4 @@
 
  Game example:
 
- ![Game example](https://raw.githubusercontent.com/val8119/tictactoe_terminal/master/example_images/tictactoe_example.png)
+ ![Game example](example_images/tictactoe_example.png)
