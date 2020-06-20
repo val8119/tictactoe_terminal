@@ -1,5 +1,5 @@
 # tictactoe_terminal
- My attempt of making tic tac toe with no external help (guides, tutorials etc)
+ My attempt at making tic tac toe with no external help (guides, tutorials etc)
 
  Game example:
 
