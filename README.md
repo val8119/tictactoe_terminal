@@ -1,4 +1,4 @@
-# tictactoe_terminal
+# Tic tac toe (terminal)
  My attempt at making tic tac toe with no external help (guides, tutorials etc)
 
  Game example:
